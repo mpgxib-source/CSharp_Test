@@ -1,0 +1,15 @@
+/Users/hamadaritsuakira/Documents/VSCode_CSharp/CSharp_Test/sampleCSharp/bin/Debug/net10.0/sampleCSharp
+/Users/hamadaritsuakira/Documents/VSCode_CSharp/CSharp_Test/sampleCSharp/bin/Debug/net10.0/sampleCSharp.deps.json
+/Users/hamadaritsuakira/Documents/VSCode_CSharp/CSharp_Test/sampleCSharp/bin/Debug/net10.0/sampleCSharp.runtimeconfig.json
+/Users/hamadaritsuakira/Documents/VSCode_CSharp/CSharp_Test/sampleCSharp/bin/Debug/net10.0/sampleCSharp.dll
+/Users/hamadaritsuakira/Documents/VSCode_CSharp/CSharp_Test/sampleCSharp/bin/Debug/net10.0/sampleCSharp.pdb
+/Users/hamadaritsuakira/Documents/VSCode_CSharp/CSharp_Test/sampleCSharp/obj/Debug/net10.0/sampleCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hamadaritsuakira/Documents/VSCode_CSharp/CSharp_Test/sampleCSharp/obj/Debug/net10.0/sampleCSharp.AssemblyInfoInputs.cache
+/Users/hamadaritsuakira/Documents/VSCode_CSharp/CSharp_Test/sampleCSharp/obj/Debug/net10.0/sampleCSharp.AssemblyInfo.cs
+/Users/hamadaritsuakira/Documents/VSCode_CSharp/CSharp_Test/sampleCSharp/obj/Debug/net10.0/sampleCSharp.csproj.CoreCompileInputs.cache
+/Users/hamadaritsuakira/Documents/VSCode_CSharp/CSharp_Test/sampleCSharp/obj/Debug/net10.0/sampleCSharp.sourcelink.json
+/Users/hamadaritsuakira/Documents/VSCode_CSharp/CSharp_Test/sampleCSharp/obj/Debug/net10.0/sampleCSharp.dll
+/Users/hamadaritsuakira/Documents/VSCode_CSharp/CSharp_Test/sampleCSharp/obj/Debug/net10.0/refint/sampleCSharp.dll
+/Users/hamadaritsuakira/Documents/VSCode_CSharp/CSharp_Test/sampleCSharp/obj/Debug/net10.0/sampleCSharp.pdb
+/Users/hamadaritsuakira/Documents/VSCode_CSharp/CSharp_Test/sampleCSharp/obj/Debug/net10.0/sampleCSharp.genruntimeconfig.cache
+/Users/hamadaritsuakira/Documents/VSCode_CSharp/CSharp_Test/sampleCSharp/obj/Debug/net10.0/ref/sampleCSharp.dll
